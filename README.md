@@ -5,6 +5,8 @@ A compact engine that **generates and explores 2D tile worlds**. The world is dr
 
 ---
 
+![ingame image](explorer_ingame.png)
+
 ## 1) Quick Start
 
 ```bash
